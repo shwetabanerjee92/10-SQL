@@ -1,6 +1,6 @@
 # Introduction to SQL:
 
-![SQL.jpeg](Images/surfs-up.jpeg)
+![SQL.jpeg](Images/SQL.jpg)
 
-Have added the SQL queries for the assignment.
-Sakila database is used for this assignment.
+This assignment is an introduction to SQL queries.
+DB used: Sakila database
